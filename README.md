@@ -1,3 +1,3 @@
-# Submission to JSS
+# Submission artifacts
 
-This notebook is the supporting material for JSS submission.
+This notebook is the supporting material for manuscript submission.
